@@ -1,6 +1,6 @@
 {
   "name": "fund-me",
-  "author": "wekng davo",
+  "author": "weng davo",
   "version": "1.0",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
